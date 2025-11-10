@@ -1,5 +1,3 @@
-# .github
-
 ## About X-Meta
 
 X-Meta is a global digital asset trading platform founded in 2021, providing secure and efficient cryptocurrency trading services for users worldwide. The exchange offers quick, reliable, and compliant trading with enterprise-grade security and deep liquidity.
